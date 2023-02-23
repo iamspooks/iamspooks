@@ -1,7 +1,7 @@
 ## Olá! eu sou o João Gabriel
 
 - 🔭 Trabalhando atualmente como Desenvolvedor Front-End
-- 🌱 Estudando Back-End
+- 🌱 Explorando Back-End
 - 🤔 Procurando ajuda com Angular ...
 
 
