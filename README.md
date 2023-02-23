@@ -3,7 +3,7 @@
 - 🔭 Trabalhando atualmente como Desenvolvedor Front-End
 - 🌱 Estudando Back-End
 - 🤔 Procurando ajuda com Angular ...
-- 📫 Contate-me no e-mail: jgdev00@gmail.com
+
 
 <div align="center">
     <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=iamspooks&theme=synthwave&show_icons=true" />
